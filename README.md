@@ -16,3 +16,16 @@ Our calculator implements the industry-standard formulas required for retirement
 - **Mandatory Disclaimer:** Full regulatory text included.
 - **Brand Fidelity:** Strictly utilizes the HDFC palette: Blue (#224c87), Red (#da3832), and Grey (#919090).
 - **Educational Focus:** Free from prohibited growth arrows or predictive "guarantee" language.
+
+## 🔊 How to Experience the Localized Voice Assistant
+[cite_start]Our tool uses the browser's native **Web Speech API** for maximum accessibility [cite: 170-179]. To hear the assistant in regional languages (Hindi, Tamil, Bengali, etc.), please ensure the corresponding voice packs are installed on your device:
+
+### For Windows 10/11:
+1. Go to **Settings > Time & Language > Speech**.
+2. Under **Manage voices**, click **Add voices**.
+3. Search for "Hindi" (or your preferred language) and click **Add**.
+
+### For Android/iOS:
+- Most modern mobile devices have Indian regional voice packs pre-installed. The app will automatically detect and use them.
+
+*Note: If a specific voice pack is missing, the assistant will fallback to the system's default English voice to ensure continuous accessibility.*
