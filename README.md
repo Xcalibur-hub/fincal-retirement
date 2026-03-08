@@ -18,7 +18,7 @@ Our calculator implements the industry-standard formulas required for retirement
 - **Educational Focus:** Free from prohibited growth arrows or predictive "guarantee" language.
 
 ## 🔊 How to Experience the Localized Voice Assistant
-[cite_start]Our tool uses the browser's native **Web Speech API** for maximum accessibility [cite: 170-179]. To hear the assistant in regional languages (Hindi, Tamil, Bengali, etc.), please ensure the corresponding voice packs are installed on your device:
+Our tool uses the browser's native **Web Speech API** for maximum accessibility. To hear the assistant in regional languages (Hindi, Tamil, Bengali, etc.), please ensure the corresponding voice packs are installed on your device:
 
 ### For Windows 10/11:
 1. Go to **Settings > Time & Language > Speech**.
